@@ -2,8 +2,13 @@
 // Результат присвойте переменной sum
 
 // your code
-let = i = 1;
-while (i < 20) {
-    i++;
+
+
+
+let sum = 1;
+while (sum <= 20){
+    console.log(sum);
+    sum += 1;
 }
-let sum
+
+

@@ -6,7 +6,7 @@
 
 
 let sum = 1;
-while (sum < 20){
+while (sum < 210){
     console.log(sum);
     sum += 1;
 }
